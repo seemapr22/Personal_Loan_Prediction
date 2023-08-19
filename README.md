@@ -1,4 +1,4 @@
-Personal Loan Prediction
+# Personal Loan Prediction
 
 ## Table of contents
 
