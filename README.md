@@ -2,9 +2,6 @@
 
 ## Table of contents
 
-*   Context
-*   Data Set Introduction
-*   Objective of the project
 *   Libraries
 *   Read and Understand Data
 *   Data Preprocessing
@@ -16,7 +13,6 @@
     *   Logistic Regression
     *   Support Vector Classifier
     *   Decision Tree
-*   Conclusion
 *   Recommendation
 
 ## Context
